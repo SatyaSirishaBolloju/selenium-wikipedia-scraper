@@ -41,11 +41,11 @@ The goal is to scrape content from [Wikipedia](https://en.wikipedia.org/) using 
 
 ```
 .
-├── main.py                  # Core scraping logic
-├── requirements.txt         # Required libraries
-├── .gitignore               # Python cache + logs
-├── README.md                # You're reading it
-└── Web Scraping Using Selenium in Python.ipynb (optional)
+├── main.py                                            # Core scraping logic
+├── requirements.txt                                   # Required libraries
+├── .gitignore                                         # Python cache + logs
+├── README.md                                          # You're reading it
+└── Web Scraping Using Selenium in Python.ipynb        # Notebook version
 
 ```
 
