@@ -88,7 +88,7 @@ Inspired by [naru94's GitHub repo](https://github.com/naru94/Web-Scraping-Using-
 
 ## 👤 Author
 
-**\SAtya Sirisha Bolloju**
+**\Satya Sirisha Bolloju**
 📊 Data Analyst | MSc Data Science – Symbiosis
 🔗 [LinkedIn](https://www.linkedin.com/in/satya-sirisha-bolloju-031b33239/) 
 
